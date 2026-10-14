@@ -37,7 +37,6 @@ document.addEventListener("keydown", function (event) {
     }
 });
 
-
 const themeToggle = document.getElementById("themeToggle");
 
 themeToggle.addEventListener("click", function () {
